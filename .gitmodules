@@ -1,0 +1,4 @@
+[submodule "jungo"]
+	path = jungo
+	url = git@git.vauxoo.com:vauxoo/jungo.git
+	branch = 17.0
