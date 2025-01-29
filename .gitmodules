@@ -1,4 +1,8 @@
 [submodule "jungo"]
 	path = jungo
 	url = git@git.vauxoo.com:vauxoo/jungo.git
-	branch = 17.0
+	branch = 18.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:vauxoo-dev/addons-vauxoo.git
+	branch = 18.0-mig-default-warehouse-from-sale-team-irvingreyes
