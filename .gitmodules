@@ -2,3 +2,7 @@
 	path = jungo
 	url = git@git.vauxoo.com:vauxoo/jungo.git
 	branch = 18.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 18.0
