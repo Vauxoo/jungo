@@ -10,3 +10,7 @@
 	path = l10n-mx-edi-autosent-edi-document
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-autosent-edi-document.git
 	branch = 18.0
+[submodule "sale-self-invoice"]
+	path = sale-self-invoice
+	url = git@git.vauxoo.com:vauxoo/sale-self-invoice.git
+	branch = 18.0
