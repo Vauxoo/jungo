@@ -14,3 +14,11 @@
 	path = sale-self-invoice
 	url = git@git.vauxoo.com:vauxoo/sale-self-invoice.git
 	branch = 18.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 18.0
+[submodule "product-variant"]
+	path = product-variant
+	url = git@github.com:Vauxoo/product-variant.git
+	branch = 18.0-jungo
