@@ -22,3 +22,7 @@
 	path = product-variant
 	url = git@github.com:Vauxoo/product-variant.git
 	branch = 18.0-jungo
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:Vauxoo/sale-workflow.git
+	branch = 18.0
