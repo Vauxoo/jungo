@@ -26,3 +26,7 @@
 	path = sale-workflow
 	url = git@github.com:Vauxoo/sale-workflow.git
 	branch = 18.0
+[submodule "l10n-mx-edi-cancellation"]
+	path = l10n-mx-edi-cancellation
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
+	branch = 18.0
