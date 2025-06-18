@@ -26,3 +26,8 @@
 	path = sale-workflow
 	url = git@github.com:Vauxoo/sale-workflow.git
 	branch = 18.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 18.0
