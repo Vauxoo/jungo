@@ -26,3 +26,7 @@
 	path = sale-workflow
 	url = git@github.com:Vauxoo/sale-workflow.git
 	branch = 18.0
+[submodule "stock-psycho-account"]
+	path = stock-psycho-account
+	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
+	branch = 18.0
