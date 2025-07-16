@@ -38,3 +38,8 @@
 	path = l10n-mx-edi-cancellation
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
 	branch = 18.0
+
+[submodule "Vauxoo/stock-logistics-warehouse"]
+	path = Vauxoo/stock-logistics-warehouse
+	url = git@github.com:Vauxoo/stock-logistics-warehouse.git
+	branch = 17.0
